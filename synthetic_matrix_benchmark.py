@@ -34,7 +34,7 @@ OVERSAMPLING = 15
 RANDOM_STATE = 2024
 BASE_SEED = 5150
 
-FIGURE_DIR = Path("figures/synthetic_matrices")
+FIGURE_DIR = Path("figures/")
 FIGURE_DIR.mkdir(parents=True, exist_ok=True)
 
 
